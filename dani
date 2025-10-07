@@ -1,10 +1,10 @@
 {
   "userinfo": {
     "userid": "12345",
-    "firstname": "WANDE",
+    "firstname": "WANDEN",
     "surname": "Jansen",
     "playerdesc": "Sterke aanvaller met goede tactische vaardigheden",
-    "maxgold": 5000,
+    "maxgold": 7000,
     "team": "Rood"
   }
 }
